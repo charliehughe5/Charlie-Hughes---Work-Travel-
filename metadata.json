@@ -1,0 +1,8 @@
+{
+  "name": "Charlie Creator Hub",
+  "description": "Private YouTube creator command centre for Charlie Hughes — managing ideation, UK work trips, scripting, video studio, thumbnails, channel management, analytics, and sponsorships for Work. Travel. Real Life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
